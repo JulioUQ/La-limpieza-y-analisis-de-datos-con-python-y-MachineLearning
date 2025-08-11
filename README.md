@@ -1,5 +1,5 @@
-# Tipología y ciclo de vida de los datos: 
-# PR2: ¿Cómo realizar la limpieza y análisis de los datos?
+
+# ¿Cómo realizar la limpieza y análisis de los datos?
 
 ## Descripción 
 
@@ -11,16 +11,16 @@ En este proyecto analizamos un conjunto de datos técnico-administrativos de la 
   - `requirements.txt`: Lista de dependencias necesarias para la ejecución.
   - `LICENSE.txt`: Licencia bajo la que se distribuye el dataset generado.
 
-- **./data/**: Contiene los datos generados en la PR1, y los limpios de la PR2.
+- **./data/**: Contiene los datos generados en la [PR1](https://github.com/JulioUQ/WebScrapping-con-Selenium-y-BeautifulSoup---Registro-General-de-la-Flota-Pesquera/tree/main/4.%20Solucion/data), y los limpios de la [PR2](https://github.com/JulioUQ/La-limpieza-y-analisis-de-datos-con-python-y-MachineLearning/tree/main/data).
   - `datos_buques_ESP.csv`: Archivo CSV con los datos extraídos del registro europeo.
-  - `data_clean`: Archivo CSV con los datos limpios y listos para el análisis.
+  - `data_clean_v2`: Archivo CSV con los datos limpios y listos para el análisis.
     
 - **./memoria/**: Informes de la PR2.
   - `PR2_Ubeda_Quesada_Julio-Zamora_Vera_Lucas.pdf`: Documento de la memoria del proyecto.
 
-- **./figues/**: Gráficos generados de la PR2.
+- **./figures/**: Gráficos generados.
 
-- **./output/**: Archivos resultantes de la PR2.
+- **./output/**: Archivos resultantes.
   - `modelo_supervisado.pkl`: Archivo pkl del modelo.
   - `modelo_no_supervisado.pkl`: Archivo pkl del modelo.
   - `EstadisticasDescriptivas.cvs`: Dataset descriptivo de las variables.
